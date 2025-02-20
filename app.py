@@ -1,3 +1,6 @@
+import os
+os.system('apt-get update && apt-get install -y libgl1')  # Fix for OpenCV error
+
 import streamlit as st
 import cv2
 import numpy as np
