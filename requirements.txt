@@ -1,5 +1,5 @@
-tensorflow==2.16
 tf-keras
+tensorflow==2.16
 opencv-python-headless
 pandas
 numpy
