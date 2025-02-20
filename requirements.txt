@@ -1,6 +1,9 @@
-streamlit
+tensorflow==2.16
+tf-keras
 opencv-python-headless
-numpy
 pandas
+numpy
+Pillow
+streamlit
 deepface
-pillow
+retinaface
